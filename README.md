@@ -1,4 +1,4 @@
-#sobremim 
+# sobremim 
 - 👋 Hi, I’m @nicolyboni  
 - meu e-mail de contato - @nicoly.boni.batista@escola.gov.pr.br 
 - estou interessado em programação                                                                            
